@@ -1,0 +1,117 @@
+.firstpart {
+    background-color: rgb(35,37, 37);
+    color: #fff;
+    width: 610px;
+    height: 560px;
+    padding: 50px;
+
+}
+
+.header {
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: rgb(199, 192, 181);
+
+}
+
+.header2{
+    margin-top: 30px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 14px;
+    color: gray;
+}
+
+
+.form-class {
+    margin-top: 40px;
+
+}
+
+.mybutton {
+    border-radius: 8px;
+    height: 50px;
+    background-color: #176fff;
+    border: none;
+    justify-content: center;
+    display: flex;
+    padding-top: 10px;
+    margin: 20px;
+    color: #f5f5f5;
+}
+
+.pass {
+    height: 50px;
+    background-color: rgb(41, 37, 37);
+    justify-content: center;
+    border: none;
+    border-radius: 8px;
+    display: flex;
+    padding-top: 10px;
+    margin: 20px;
+    color: #176fff;
+
+}
+
+.pass:hover{
+    border-radius: 8px;
+    background-color: whitesmoke;
+    transform: 0.4s;
+
+}
+
+input {
+    appearance: menulist-button;
+    background-color: rgba(70 ,90 ,126, 0.4) !important;
+    color: fieldtext !important;
+    writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    margin: 0em;
+    padding: 1px 2px;
+    border: none !important;
+}
+
+.logo {
+    text-align: center;
+    margin-top: 70px;
+    font-weight: bold;
+}
+
+.content {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.content1 {
+    text-align: center;
+    font-size: 10px;
+}
+
+.img {
+    width: 50%;
+    height: 40%;
+    margin-top: 3%;
+    margin-left: 25%;
+    border-radius: 8px;
+}
+
+.content2 {
+    text-align: center;
+    font-size: 10px;
+    margin-top: 3%;
+}
